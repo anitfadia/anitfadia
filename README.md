@@ -5,4 +5,4 @@
 
 <a href="https://github.com/anitfadia">GitHub</a>
 
-<sub>Mixtape · tracks are my repos, plays are stars · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+<sub>Mixtape · tracks are my repos, plays are stars · 
